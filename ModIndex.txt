@@ -4,6 +4,6 @@ Computer Interface Reborn;ComputerInterface.dll;LucyLikesBananas;This mod adds b
 #Computer Interface Commands;ComputerInterface.Commands.dll;LucyLikesBananas;Adds 15 new commands for the user in Computer Interface!
 Overstocked;Overstocked-Bep.dll;NotABird;This mod adds a stand next to the mirror in city to buy old cosmetics!
 Better City Mirror;bettermirror.dll;Xynz_;makes the mirror in city 10x better!
-Seralyth;Seralyth-Menu.dll;KingOfNetflix;Adds the best free mod menu! :D
+#Seralyth;Seralyth-Menu.dll;KingOfNetflix;Adds the best free mod menu! :D
 Bingus Nametags;BingusNametagsPlusPlus.dll;sirkingbinx.;The most customizeable mod for nametags!
 #LucyCasting;LucyCasting.dll;lucylikesbananas;Adds my very own custom Casting Client to gorilla tag!
