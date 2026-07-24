@@ -1,7 +1,7 @@
 mod name;mod_dll_name.dll;author_name;description like i love this mod yk this is a description
 #Utilla;Utilla.dll;KingOfNetflix;adds legal/illegal modes + modded lobbies to the game!
 Computer Interface Reborn;ComputerInterface.dll;LucyLikesBananas;This mod adds back the old Computer Interface by Toni Macaroni :D
-Computer Interface Commands;ComputerInterface.Commands.dll;LucyLikesBananas;Adds 15 new commands for the user in Computer Interface!
+#Computer Interface Commands;ComputerInterface.Commands.dll;LucyLikesBananas;Adds 15 new commands for the user in Computer Interface!
 Overstocked;Overstocked-Bep.dll;NotABird;This mod adds a stand next to the mirror in city to buy old cosmetics!
 Better City Mirror;bettermirror.dll;Xynz_;makes the mirror in city 10x better!
 Seralyth;Seralyth-Menu.dll;KingOfNetflix;Adds the best free mod menu! :D
