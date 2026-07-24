@@ -5,4 +5,4 @@ Computer Interface Commands;ComputerInterface.Commands.dll;LucyLikesBananas;Adds
 Overstocked;Overstocked-Bep.dll;NotABird;This mod adds a stand next to the mirror in city to buy old cosmetics!
 Better City Mirror;bettermirror.dll;Xynz_;makes the mirror in city 10x better!
 Seralyth;Seralyth-Menu.dll;KingOfNetflix;Adds the best free mod menu! :D
-Bingus's Nametags;BingusNametagsPlusPlus.dll;Bingus;The BEST nametag mod publicly avaliable, most cuztomizeable
+Bingus's Nametags;BingusNametagsPlusPlus.dll;The BEST nametag mod publicly avaliable, most cuztomizeable
