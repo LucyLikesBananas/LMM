@@ -1,4 +1,4 @@
-mod name;mod_dll_name.dll;description like i love this mod yk this is a description
-Computer Interface Reborn;ComputerInterface.dll;This mod adds back the old Computer Interface by Toni Macaroni :D
-Computer Interface Commands;ComputerInterface.Commands.dll;Adds 15 new commands for the user in Computer Interface!
-Overstocked;Overstocked-Bep.dll;This mod adds a stand next to the mirror in city to buy old cosmetics!
+mod name;mod_dll_name.dll;author_name;description like i love this mod yk this is a description
+Computer Interface Reborn;ComputerInterface.dll;LucyLikesBananas;This mod adds back the old Computer Interface by Toni Macaroni :D
+Computer Interface Commands;ComputerInterface.Commands.dll;LucyLikesBananas;Adds 15 new commands for the user in Computer Interface!
+Overstocked;Overstocked-Bep.dll;someone;This mod adds a stand next to the mirror in city to buy old cosmetics!
