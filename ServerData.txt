@@ -7,7 +7,7 @@
   "admins": [
     {
       "name": "Lucy",
-      "user-id": "1358539724523962680",
+      "user-id": "A864FDEA28B52C4D",
       "discord-id": "1353949181571633173"
     }
   ],
